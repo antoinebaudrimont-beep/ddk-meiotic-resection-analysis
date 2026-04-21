@@ -59,3 +59,7 @@ For questions about the analyses or scripts, please contact:
 
 Antoine Baudrimont  
 GitHub: `antoinebaudrimont-beep`
+
+## License
+
+This repository is released under the MIT License. See the `LICENSE` file for details.
